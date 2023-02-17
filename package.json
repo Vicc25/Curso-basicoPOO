@@ -1,0 +1,19 @@
+{
+  "name": "curso-basicopoo",
+  "version": "1.0.0",
+  "description": "Prácticas del curso de programación orientada a objetos de Platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vicc25/Curso-basicoPOO.git"
+  },
+  "author": "Victor Acosta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Vicc25/Curso-basicoPOO/issues"
+  },
+  "homepage": "https://github.com/Vicc25/Curso-basicoPOO#readme"
+}
